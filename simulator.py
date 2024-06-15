@@ -62,7 +62,7 @@ for i in range(iterations):
         color_grid[x][y] = [255,255,255]
 
   image = Image.fromarray(color_grid)
-  image.save('output{0}.jpg'.format(i))
+  image.save('Output/output{0}.jpg'.format(i))
 end_time=time.time()
 print('Simulation finished. {0} seconds used'.format(end_time-start_time))
 input("Press Enter to exit...")
