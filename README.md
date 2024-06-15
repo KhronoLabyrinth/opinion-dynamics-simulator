@@ -1,2 +1,4 @@
 # opinion-dynamics-simulator
-a simple simulator of opinion dynamics using the idea of the Ising model
+A simple simulator of opinion dynamics using the idea of the Ising model
+
+README WIP
